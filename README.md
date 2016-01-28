@@ -1,4 +1,4 @@
-elixir-typescript 
+ nc-elixir-typescript 
 ========================
 
 **(forked from laravel-elixir-typescript by [MikeyAlder](https://github.com/MikeyAlder/laravel-elixir-typescript))**
